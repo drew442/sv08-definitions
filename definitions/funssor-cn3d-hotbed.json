@@ -1,0 +1,9 @@
+{
+  "id": "funssor-cn3d-hotbed",
+  "name": "Funssor CN3D heated bed",
+  "version": "1.0.0",
+  "extends": "sv08.factory.hotbed",
+  "heater_bed": {
+    "max_temp": 120
+  }
+}
