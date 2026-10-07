@@ -1,9 +1,9 @@
 {
   "format_version": "0.1",
-  "catalog_id": "my-printer-definitions",
+  "catalog_id": "drew442-definitions",
   "name": "My printer definitions",
   "publisher": {
-    "name": "Your name"
+    "name": "Drew442"
   },
   "license": "GPL-3.0-or-later",
   "definitions": [
